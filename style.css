@@ -1,0 +1,11 @@
+body {
+    font-size: 15pt;
+}
+
+.box{
+  background-color: #db7bc2;
+  border: 10px solid #9d39fa;
+  mheight: 10px;
+  font-size: 1.5rem;
+  padding-top: 10px;
+}
